@@ -1,0 +1,19 @@
+{
+  "name": "journey-across-philly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamDaHanson/Journey-Across-Philly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamDaHanson/Journey-Across-Philly/issues"
+  },
+  "homepage": "https://github.com/SamDaHanson/Journey-Across-Philly#readme"
+}
